@@ -1,1 +1,2 @@
-# new
+Hello, my name is Nguyen Van Thang. I was born on February 16, 2005. Currently, I am a student at Santa Fe College, majoring in Computer Science. My student ID is SF211501139. I am part of the 2024–2028 batch, and my course started in July 2024. I am passionate about technology, programming, and exploring new advancements in the IT field. I look forward to gaining more knowledge and skills during my studies and hope to contribute positively to the tech community in the future.
+
